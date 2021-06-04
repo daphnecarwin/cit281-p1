@@ -17,3 +17,8 @@ Terminal/Command Line Interface, Visual Studio Code, Node.js
 What I learned from the project:
 
 From this project I was reintroduced with many javacscript tools that would be very useful for the entire term, and solidified my knowledge gained from lab 1 about command line interface use. 
+
+![p1-break.jpg](p1-break.jpg)
+![p1-folders.jpg](p1-folders.jpg)
+![p1-ping.jpg](p1-ping.jpg)
+![p1-tree.jpg](p1-tree.jpg)
